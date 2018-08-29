@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "atlas.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 51,
+				"h": 200
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "ui/button-over.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 49
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 49,
+						"h": 49
+					}
+				},
+				{
+					"filename": "ui/button-up.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 49
+					},
+					"frame": {
+						"x": 1,
+						"y": 52,
+						"w": 49,
+						"h": 49
+					}
+				},
+				{
+					"filename": "ui/slot.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 49
+					},
+					"frame": {
+						"x": 1,
+						"y": 103,
+						"w": 49,
+						"h": 49
+					}
+				},
+				{
+					"filename": "ui/button-down.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 45
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 45
+					},
+					"frame": {
+						"x": 1,
+						"y": 154,
+						"w": 49,
+						"h": 45
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:7505b64ea923c7bb68a15f1c790bcd66:f5c0a2c8fd8f7e2b5ce435d35828096a:cbce6b53f0f49e0bf15173c25c41f876$"
+	}
+}
